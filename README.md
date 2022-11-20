@@ -1,5 +1,5 @@
 # WpfFolderBrowser
-Fork from https://wpffolderbrowser.codeplex.com/
+Fork from https://github.com/WertherHu/WpfFolderBrowser
 
 # Project Description
 Use the Windows Vista / Windows 7 Folder Browser Dialog from your WPF projects, without any additional dependencies.
